@@ -1,0 +1,3 @@
+C:\Users\Hoang Khoi\Desktop\QuanLyBanHang (1)\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+C:\Users\Hoang Khoi\Desktop\QuanLyBanHang (1)\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.exe
+C:\Users\Hoang Khoi\Desktop\QuanLyBanHang (1)\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.pdb

@@ -1,0 +1,18 @@
+D:\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.frmDMSach.resources
+D:\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Properties.Resources.resources
+D:\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.csproj.GenerateResource.Cache
+D:\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+D:\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+D:\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+D:\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.exe
+D:\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.pdb
+D:\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.csprojResolveAssemblyReference.cache
+C:\Users\Hoang Khoi\Desktop\QuanLyBanHang (1)\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+C:\Users\Hoang Khoi\Desktop\QuanLyBanHang (1)\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.exe
+C:\Users\Hoang Khoi\Desktop\QuanLyBanHang (1)\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.pdb
+C:\Users\Hoang Khoi\Desktop\QuanLyBanHang (1)\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+C:\Users\Hoang Khoi\Desktop\QuanLyBanHang (1)\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+C:\Users\Hoang Khoi\Desktop\QuanLyBanHang (1)\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.csprojResolveAssemblyReference.cache
+C:\Users\Hoang Khoi\Desktop\QuanLyBanHang (1)\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.frmDMSach.resources
+C:\Users\Hoang Khoi\Desktop\QuanLyBanHang (1)\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Properties.Resources.resources
+C:\Users\Hoang Khoi\Desktop\QuanLyBanHang (1)\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.csproj.GenerateResource.Cache
