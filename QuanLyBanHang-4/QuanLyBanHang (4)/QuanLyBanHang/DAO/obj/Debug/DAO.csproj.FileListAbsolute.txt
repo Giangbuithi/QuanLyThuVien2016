@@ -1,0 +1,9 @@
+K:\New folder\QuanLyBanHang\BIN\DAO.dll
+K:\New folder\QuanLyBanHang\BIN\DAO.pdb
+K:\New folder\QuanLyBanHang\DAO\obj\Debug\DAO.dll
+K:\New folder\QuanLyBanHang\DAO\obj\Debug\DAO.pdb
+C:\Users\Hoang Khoi\Desktop\QuanLyBanHang (4)\QuanLyBanHang\BIN\DAO.dll
+C:\Users\Hoang Khoi\Desktop\QuanLyBanHang (4)\QuanLyBanHang\BIN\DAO.pdb
+C:\Users\Hoang Khoi\Desktop\QuanLyBanHang (4)\QuanLyBanHang\DAO\obj\Debug\DAO.dll
+C:\Users\Hoang Khoi\Desktop\QuanLyBanHang (4)\QuanLyBanHang\DAO\obj\Debug\DAO.pdb
+C:\Users\Hoang Khoi\Desktop\QuanLyBanHang (4)\QuanLyBanHang\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache

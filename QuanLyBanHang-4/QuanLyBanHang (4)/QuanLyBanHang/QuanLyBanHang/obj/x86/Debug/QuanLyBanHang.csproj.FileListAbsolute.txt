@@ -1,0 +1,41 @@
+D:\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.frmDMSach.resources
+D:\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Properties.Resources.resources
+D:\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.csproj.GenerateResource.Cache
+D:\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+D:\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+D:\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+D:\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.exe
+D:\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.pdb
+D:\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.csprojResolveAssemblyReference.cache
+K:\New folder\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+K:\New folder\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.exe
+K:\New folder\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.pdb
+K:\New folder\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.csprojResolveAssemblyReference.cache
+K:\New folder\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.DangNhap.resources
+K:\New folder\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.frmDMSach.resources
+K:\New folder\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Properties.Resources.resources
+K:\New folder\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.csproj.GenerateResource.Cache
+K:\New folder\QuanLyBanHang\BIN\QuanLyBanHang.exe.config
+K:\New folder\QuanLyBanHang\BIN\QuanLyBanHang.exe
+K:\New folder\QuanLyBanHang\BIN\QuanLyBanHang.pdb
+C:\Users\Hoang Khoi\Desktop\QuanLyBanHang (4)\QuanLyBanHang\BIN\QuanLyBanHang.exe.config
+C:\Users\Hoang Khoi\Desktop\QuanLyBanHang (4)\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.exe
+C:\Users\Hoang Khoi\Desktop\QuanLyBanHang (4)\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.pdb
+C:\Users\Hoang Khoi\Desktop\QuanLyBanHang (4)\QuanLyBanHang\BIN\QuanLyBanHang.exe
+C:\Users\Hoang Khoi\Desktop\QuanLyBanHang (4)\QuanLyBanHang\BIN\QuanLyBanHang.pdb
+C:\Users\Hoang Khoi\Desktop\QuanLyBanHang (4)\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.csprojResolveAssemblyReference.cache
+C:\Users\Hoang Khoi\Desktop\QuanLyBanHang (4)\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.DangNhap.resources
+C:\Users\Hoang Khoi\Desktop\QuanLyBanHang (4)\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.frmDMSach.resources
+C:\Users\Hoang Khoi\Desktop\QuanLyBanHang (4)\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Properties.Resources.resources
+C:\Users\Hoang Khoi\Desktop\QuanLyBanHang (4)\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.csproj.GenerateResource.Cache
+C:\Users\Hoang Khoi\Desktop\QuanLyBanHang-4\QuanLyBanHang (4)\QuanLyBanHang\BIN\QuanLyBanHang.exe.config
+C:\Users\Hoang Khoi\Desktop\QuanLyBanHang-4\QuanLyBanHang (4)\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.exe
+C:\Users\Hoang Khoi\Desktop\QuanLyBanHang-4\QuanLyBanHang (4)\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.pdb
+C:\Users\Hoang Khoi\Desktop\QuanLyBanHang-4\QuanLyBanHang (4)\QuanLyBanHang\BIN\QuanLyBanHang.exe
+C:\Users\Hoang Khoi\Desktop\QuanLyBanHang-4\QuanLyBanHang (4)\QuanLyBanHang\BIN\QuanLyBanHang.pdb
+C:\Users\Hoang Khoi\Desktop\QuanLyBanHang-4\QuanLyBanHang (4)\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.csprojResolveAssemblyReference.cache
+C:\Users\Hoang Khoi\Desktop\QuanLyBanHang-4\QuanLyBanHang (4)\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.DangNhap.resources
+C:\Users\Hoang Khoi\Desktop\QuanLyBanHang-4\QuanLyBanHang (4)\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.frmDMSach.resources
+C:\Users\Hoang Khoi\Desktop\QuanLyBanHang-4\QuanLyBanHang (4)\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Properties.Resources.resources
+C:\Users\Hoang Khoi\Desktop\QuanLyBanHang-4\QuanLyBanHang (4)\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.csproj.GenerateResource.Cache
+C:\Users\Hoang Khoi\Desktop\QuanLyBanHang-4\QuanLyBanHang (4)\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Timkiem.resources

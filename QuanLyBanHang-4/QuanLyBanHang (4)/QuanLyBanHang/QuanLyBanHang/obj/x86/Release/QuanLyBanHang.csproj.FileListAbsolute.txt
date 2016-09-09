@@ -1,0 +1,5 @@
+C:\Users\Hoang Khoi\Desktop\QuanLyBanHang (4)\QuanLyBanHang\QuanLyBanHang\bin\Release\QuanLyBanHang.exe.config
+C:\Users\Hoang Khoi\Desktop\QuanLyBanHang (4)\QuanLyBanHang\QuanLyBanHang\obj\x86\Release\QuanLyBanHang.DangNhap.resources
+C:\Users\Hoang Khoi\Desktop\QuanLyBanHang (4)\QuanLyBanHang\QuanLyBanHang\obj\x86\Release\QuanLyBanHang.frmDMSach.resources
+C:\Users\Hoang Khoi\Desktop\QuanLyBanHang (4)\QuanLyBanHang\QuanLyBanHang\obj\x86\Release\QuanLyBanHang.Properties.Resources.resources
+C:\Users\Hoang Khoi\Desktop\QuanLyBanHang (4)\QuanLyBanHang\QuanLyBanHang\obj\x86\Release\QuanLyBanHang.csproj.GenerateResource.Cache
